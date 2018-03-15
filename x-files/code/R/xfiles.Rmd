@@ -3,6 +3,8 @@ title: "The Decline of the X-Files"
 author: "Neil Saunders"
 date: "`r Sys.Date()`"
 output:
+  github_document:
+    toc: yes
   prettydoc::html_pretty:
     theme: architect
     highlight: github
